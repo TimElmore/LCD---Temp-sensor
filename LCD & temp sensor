@@ -1,4 +1,3 @@
-
 //This sketch is used to determine the temperature using a DS18B20
 //temperature sensor and 16x2 LCD display shield.
 #include <LiquidCrystal.h>
